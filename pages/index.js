@@ -10,7 +10,7 @@ export default function Home({ results }) {
     <div >
       <Head>
         <title>Hulu</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://secure.webtoolhub.com/static/resources/icons/set111/63f29b37.png" />
       </Head>
 
       {/* Header */}
